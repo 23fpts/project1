@@ -1,0 +1,60 @@
+
+/*
+.block {
+    width: 400px;
+    display: block;
+    margin: 5px 0;
+}
+*/
+
+/*
+label {
+    display: inline-block;
+    widows: 200px;
+    text-align: right;
+}
+
+
+input {
+    vertical-align: middle;
+}
+*/
+
+
+label {
+    cursor: pointer;
+    display: inline-block;
+    text-align: right;
+    width: 150px;
+    vertical-align: top; 
+}
+
+.formtips{ width: 200px;margin:2px;padding:2px;}
+.onError{
+    background:#FFE0E9 url(img/NO.gif) no-repeat;   /*注意路径*/
+    padding-left:25px;
+}
+.onSuccess{
+    background:#E9FBEB url(img/OK.gif) no-repeat;
+    padding-left:25px;
+}
+.high{  color:red;  }
+
+/*
+.button {
+    width: 150px;
+    right:100px;
+}
+*/
+/*
+.address {
+    width: 500px;
+    height: 80px;
+    margin: 100px auto;
+}
+
+.address select {
+    min-width: 100px;
+    height: 40px;
+    font-size: 14px;
+}*/
